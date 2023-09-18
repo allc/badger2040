@@ -19,6 +19,7 @@ include(pimoroni_bus/micropython)
 include(hershey_fonts/micropython)
 include(bitmap_fonts/micropython)
 include(picographics/micropython)
+include(picovector/micropython)
 
 # Pico Graphics Extra
 include(jpegdec/micropython)
